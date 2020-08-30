@@ -62,8 +62,8 @@ string getPalindromo(string str)
 
 int main()
 {
-	  ios::sync_with_stdio(false);
-	  cin.tie(0);
+    ios::sync_with_stdio(false);
+    cin.tie(0);
     string s;
 
     getline(cin, s);

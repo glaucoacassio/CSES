@@ -1,0 +1,45 @@
+Palindromi
+
+Time limit: 1.00 s Memory limit: 512 MB
+A palindrome is a string that is the same when read in both directions. For example, the string INNOSTUNUTSONNI is a palindrome.
+
+Your task is to arrange the characters in a given string so that the result is a palindrome.
+
+Input The
+
+input is a string withofcharacters from A to Z.
+
+Output
+
+Print a palindrome consisting of the characters in a string. You can print any solution.
+
+If no solution exists, print "NO SOLUTION".
+
+Bounds
+1 ≤ n ≤10^6
+Example 1
+
+Input:
+UTOSNSINTINNNUO
+
+Output:
+INNOSTUNUTSONNI
+
+Example 2
+
+Input:
+ABCCBA
+
+Output:
+ABCCBA
+
+Example 3
+
+Input:
+HOKKUSPOKKUS
+
+Output:
+NO SOLUTION
+
+
+Fonte: https://cses.fi/alon20/task/1168
